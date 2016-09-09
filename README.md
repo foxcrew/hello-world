@@ -1,2 +1,2 @@
 # hello-world
-ini cuma testing
+testing
